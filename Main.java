@@ -138,18 +138,18 @@ Test Data: Input a string: The quick brown fox Expected Output: Reverse string: 
 //        System.out.print("please Enter a word: ");
 //        String word = input.nextLine();
 //
-//        boolean Palindrome = true;
+//        boolean palindrome = true;
 //        int length = word.length();
 //
 //
 //        for (int i = 0; i < length / 2; i++) {
 //            if (word.charAt(i) != word.charAt(length - 1 - i)) {
-//                Palindrome = false;
+//                palindrome = false;
 //                break;
 //            }
 //        }
 //
-//        if (Palindrome) {
+//        if (palindrome) {
 //            System.out.println(word + " is a palindrome.");
 //        } else {
 //            System.out.println(word + " is not a palindrome.");
